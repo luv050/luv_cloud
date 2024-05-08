@@ -1,0 +1,19 @@
+public class ApexCalc {
+ public void add(Integer x, Integer y) {
+        System.debug(x + y);
+    }
+    
+    public void subtract(Integer x, Integer y) {
+        System.debug(x - y);
+    }
+    
+    public void multiply(Integer x, Integer y) {
+        System.debug(x * y);
+    }
+    
+    public void divide(Integer x, Integer y) {
+        System.debug(x / y);
+    }
+}
+
+
